@@ -3,7 +3,7 @@
 **INTRODUCTION**:
 
 The motivation behind this research is the understanding of specific conditions that affect the severity of an automotive accident. The purpose of this project is to highlight impactful variables while operating a vehicle in order to improve accident prevention.
-A classification was made based on U.K. road accidents ranging from 2014 to 2016 using the methodologies covered in class (Logistic Regression, Neural network, KNN, Decision tree). The classification specifies the impact of certain features on car wreckage. 
+A classification was made based on U.K. road accidents ranging from 2014 to 2016 using the methodologies covered in previous courses (Logistic Regression, Neural network, KNN, Decision tree). The classification specifies the impact of certain features on car wreckage. 
 
 **DATA**:
 The data collected comes from the U.K. government who amassed traffic data based on police reports. 
